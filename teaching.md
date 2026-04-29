@@ -22,7 +22,7 @@ Write a paragraph or two about how you approach teaching. What do you believe ab
   class="right"
   width="45%"
   caption="Add an image that represents your teaching — a classroom, a field site, a project students built."
-  image-path="/assets/images/great-lecture.jpg"
+  image-path="assets/images/picture.jpg"
 %}
 
 A second paragraph here works well. You can use this space to describe your methods, discuss a particular challenge you've worked through as a teacher, or explain what kinds of learning you prioritize.
