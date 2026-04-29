@@ -1,11 +1,11 @@
 ---
-title: Your Name
+title: Marisa Pickett
 layout: nav-profile
 date: 2024-12-02
 ---
 
 
-# Your Name
+# Marisa Pickett
 
 This is your homepage — the first thing visitors see. Write two or three sentences that introduce who you are and what you do. Think of it as a brief professional statement: your field, your focus, and what makes your work distinctive. Keep it short; the cards below link to your other pages where you can go into depth.
 
