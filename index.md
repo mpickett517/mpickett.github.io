@@ -7,7 +7,7 @@ date: 2024-12-02
 
 # Marisa Pickett
 
-This is your homepage — the first thing visitors see. Write two or three sentences that introduce who you are and what you do. Think of it as a brief professional statement: your field, your focus, and what makes your work distinctive. Keep it short; the cards below link to your other pages where you can go into depth.
+I'm a PhD candidate in the Department of History at the University of New Mexico. My focus is the study of modern comparative European history. My research focuses on Black European culture, community, politics and creativity within which the transatlantic exchange of Black ideas and art between Europe and the USA. I look to understand the experiences of those 'othered' by white society, living within their own created communities and crafting identities that encompass their experiences.
 
 ---
 
