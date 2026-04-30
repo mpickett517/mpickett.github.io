@@ -7,7 +7,7 @@ date: 2024-12-02
 
 # Marisa Pickett
 
-I'm a PhD candidate in the Department of History at the University of New Mexico. My focus is the study of modern comparative European history. My research focuses on Black European culture, community, politics and creativity within which the transatlantic exchange of Black ideas and art between Europe and the USA. I look to understand the experiences of those 'othered' by white society, living within their own created communities and crafting identities that encompass their experiences.
+I'm a PhD candidate in the Department of History at the University of New Mexico. My focus is  modern comparative European history. My research focuses on Black European culture, community, politics and creativity within which the transatlantic exchange of Black ideas and art between Europe and the USA. I look to understand the experiences of those 'othered' by white society, living within their own created communities and crafting identities that encompass their experiences.
 
 ---
 
